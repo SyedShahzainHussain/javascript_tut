@@ -1,7 +1,7 @@
 // ! switch statement
 
 let day = 2;
-switch (day) {
+switch (day) { 
     case 0:
         console.log("Sunday");
         break;

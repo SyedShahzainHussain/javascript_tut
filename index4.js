@@ -2,9 +2,9 @@
 // ! declare variable with let keyword and change that 
 
 let firstName = "shahzain";
- firstName = "zain";
+firstName = "zain";
 
- console.log(firstName);
+console.log(firstName);
 
 
 // * block scope and function scope (covered later )

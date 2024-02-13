@@ -1,4 +1,4 @@
-'use strict'
+'use strict'  // ! strict is used for we dont do any mistake it help us 
 
 
 // intro to variable

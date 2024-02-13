@@ -1,5 +1,5 @@
 // ! string indexing
-// * string index start from zero 0 
+// * string index start from zero 0
 // * string length strat form the 1 and include the spaces also
 
 // ! indexing

@@ -13,6 +13,10 @@ const users = [
     },
 ];
 
+for (const iterator of users) {
+    console.log(iterator.firstName,iterator.userId);
+}
+
 for (const iterator in users) {
     console.log(users[iterator].firstName,users[iterator].userId);
 }

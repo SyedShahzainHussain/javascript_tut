@@ -1,7 +1,5 @@
 // ! nested destructuring
 
-
-
 const users = [
     {
         "userId":1,"firstName":"zain",

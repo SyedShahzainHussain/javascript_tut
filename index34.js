@@ -1,8 +1,7 @@
 // ! how to iterate objects
-const person ={
-    name:"shahzain",
-   
-    hobbies :["guitar","sleeping age:22,","listening"],
+const person = {
+    name: "shahzain",
+    hobbies: ["guitar", "sleeping age:22,", "listening"],
 };
 
 
@@ -21,6 +20,6 @@ const person ={
 // }
 
 
-for (const key of Object.keys(person)) {
-    console.log( key);
-}
+// for (const key of Object.keys(person)) {
+//     console.log(key);
+// }
