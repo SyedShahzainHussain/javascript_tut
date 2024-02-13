@@ -1,5 +1,5 @@
-// ! break keyword
-// ! continue keyword
+// ! break keyword break stop loop and exit from the loop
+// ! continue keyword continue skip the loop
 
 // for (let i =1;i<=10;i++){
 //     if(i==5){

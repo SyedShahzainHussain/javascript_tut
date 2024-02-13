@@ -1,4 +1,4 @@
-//! && and || Operator
+//! &&  || Operator
 
 
 let age = 10;

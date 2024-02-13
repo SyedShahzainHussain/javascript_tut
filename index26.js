@@ -13,7 +13,7 @@ name = "syed";
 console.log(name);
 console.log(age);
 
-// !reference
+// ! reference
 
 let fruits = ["banana", "apple", "mango"];
 let fruits2 = fruits;

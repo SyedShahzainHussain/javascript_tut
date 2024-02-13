@@ -1,4 +1,4 @@
-// ! array destructuring
+// ! array destructuring    
 
 const array = ["graphes", "mango", "orange"];
 
