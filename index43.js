@@ -1,4 +1,4 @@
-// ! hoisting  only declare function is call before declare
+// ! hoisting  only declare function is call before declare and initialized
 
 hello();
 

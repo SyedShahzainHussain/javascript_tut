@@ -1,4 +1,4 @@
-//! reduce method
+//! reduce method  in dart is use as a fold method  ( give the calculate value )
 const list = [
     {
         "name": "shahzain",

@@ -1,4 +1,6 @@
-// ! forEach - forEach accept  the callback function  which return nothing
+// ! forEach - forEach accept  the callback function
+// !  in dart also
+// ? (which return nothing)
 
 const list = [4, 2, 3, 1];
 
