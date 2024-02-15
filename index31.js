@@ -1,4 +1,4 @@
-// ! array destructuring    
+// ! array destructuring   reference type  
 
 const array = ["graphes", "mango", "orange"];
 

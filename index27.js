@@ -1,4 +1,4 @@
-// ! clone array with slice , concat and spred operator
+// ! clone array with slice , concat and spread operator
 
 
 // let array = ["item1","item2"];

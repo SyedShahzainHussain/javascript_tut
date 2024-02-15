@@ -1,4 +1,6 @@
 
+// ? is code kai andr hm ne ab ek function banaya ayr uske ander ek object ayr object ki value parameter sai accept ki aur object return krwadya.. phele hm object ko baar baar create kr rhe the lekin ab code readable hogya lekin isme bhi ek masla hai  jb object create hogah toh function dobara sai create honge jis ki wajah sai memory allocated hogi ab isko solve krte hai ;
+
 
 
 function createUser(firstName, lastName, age, hubby,) {

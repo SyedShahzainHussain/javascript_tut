@@ -1,5 +1,5 @@
 
-// ! ___proto___
+// ! ___proto___  creting a chain or reference
 
 const userMethods = {
     about: function () {

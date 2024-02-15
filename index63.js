@@ -15,4 +15,4 @@
 
 
 // ! array like object
-// ? woh hote hai jis pr hm length property 0r index kai through  use krskte hai 
+// ? woh hote hai jis pr hm length property or index kai through  use krskte hai 

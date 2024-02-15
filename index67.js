@@ -1,4 +1,4 @@
-// ! optional chaining  with ?.
+// ! optional chaining  with ?. is used for that the data come after 
 
 var data = {
     "firstName": "zain",

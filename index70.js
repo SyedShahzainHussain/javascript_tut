@@ -1,4 +1,6 @@
-// ! create multip funcation and ojects
+// ! create multiple function and ojects
+// ? so this is code is not clean we  creating the multiple object 
+// ? i have a solution for that let move to next file 
 
 
 const user1 = {
