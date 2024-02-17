@@ -2,8 +2,10 @@
 
 
 const button = document.querySelector(".btn");
+
 // button.onclick = ()=>{
 //     console.log("hello");
 // }
 
-button.addEventListener("click",()=>{console.log("hello world");})
+button.addEventListener("click", () => { console.log("hello world"); })
+

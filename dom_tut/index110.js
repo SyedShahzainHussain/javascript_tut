@@ -7,6 +7,6 @@ for (let index = 0; index < button.length; index++) {
         console.log(this);
         event.target.style.color = "white";
         event.target.style.backgroundColor = "blue";
-    });
+    },);
 }
 
